@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+.env.*
+
+# SQLite DB
+instance/studio.db
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.ENV.bak/
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# VS Code settings (if applicable)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Flask-related
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore migrations if using Flask-Migrate (optional)
+migrations/

@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### 4. Set your secret key by adding a .env file in the root folder
 ```bash
 # Add this to the .env file
-SECRET_KEY=your_super_secret_key_here
+SECRET_KEY="your_super_secret_key_here"
 ```
 
 ### 5. Run the app

@@ -39,8 +39,8 @@ Please read the entire README before starting
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Flask-API.git
-cd Flask-API
+git clone https://github.com/SarthakBhat22/Flask-Booking-App.git
+cd Flask-Booking-App
 ```
 
 ### 2. Create a virtual environment and activate it
